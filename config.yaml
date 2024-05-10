@@ -139,10 +139,10 @@ params:
       newPage: false
     socialLinks:
       fontAwesomeIcons:
-        - icon: fab fa-instagram
-          url: https://example.com
         - icon: fab fa-linkedin-in
-          url: https://example.com
+          url: https://www.linkedin.com/in/archi-arora
+        - icon: fab fa-instagram
+          url: https://www.instagram.com/aarchi_/
       customIcons:
         - icon: /fav.png
           url: "https://example.com"
