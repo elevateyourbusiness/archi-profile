@@ -1,7 +1,7 @@
 ---
 title: this is also a test
-date: 2024-05-11T22:53:58+05:30
-draft: true
+date: 2021-04-03T22:53:58+05:30
+draft: false
 image: /images/achievment.jpg
 description: this i sdesc
 tags:
