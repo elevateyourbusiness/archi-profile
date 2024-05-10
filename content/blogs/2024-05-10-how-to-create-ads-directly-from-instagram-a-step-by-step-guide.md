@@ -1,8 +1,8 @@
 ---
 title: "How to Create Ads Directly from Instagram: A Step-by-Step Guide"
-date: 2024-05-11
+date: 2021-04-03T22:53:58+05:30
 draft: false
-image: /img/pexels-pixabay-248533.jpg
+image: /images/pexels-pixabay-248533.jpg
 description: How to make instagram ads
 tags:
   - instagram ads
