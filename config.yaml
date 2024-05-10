@@ -143,8 +143,6 @@ params:
           url: https://example.com
         - icon: fab fa-linkedin-in
           url: https://example.com
-        - icon: fab fa-globe
-          url: https://example.com
       customIcons:
         - icon: /fav.png
           url: "https://example.com"
