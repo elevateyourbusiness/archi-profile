@@ -1,7 +1,7 @@
 ---
 title: The Art of Nudging to Influence Consumer Decision-Making
 date: 2024-05-11T02:49:00+05:30
-draft: true
+draft: false
 image: /images/4cc.jpg
 description: Explore the subtle yet effective strategies of nudging in consumer
   behavior, showcasing how businesses can ethically influence choices and drive
